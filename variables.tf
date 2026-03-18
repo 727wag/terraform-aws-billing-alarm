@@ -1,4 +1,4 @@
 variable "email_alerta" {
-    description = "wabastosgb@gmail.com"
+    description = "E-mail que recebe os alertas"
     type = string
 }
